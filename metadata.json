@@ -1,0 +1,7 @@
+{
+  "name": "Econo",
+  "description": "Uma plataforma sofisticada de gestão financeira pessoal, focada em economia inteligente e rastreamento em tempo real.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
